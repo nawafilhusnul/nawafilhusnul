@@ -1,5 +1,5 @@
 # 💫 About Me:
-A backend enthusiast.
+A software engineering enthusiast.
 
 
 ## 🌐 Socials:
