@@ -94,58 +94,6 @@ func main() {
 
 </div>
 
----
-
-## 💼 Experience Highlights
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏋️ FIT HUB (Jul 2022 – Present)
-
-**Backend Engineer** • Jakarta, Indonesia
-
-- 🚀 Reduced OTP costs by **30%** with rate-limiting middleware
-- 🐛 Decreased bugs by **99%** through refactoring & unit tests
-- 📈 Increased gym membership sales by **30%** with Lead Management System
-- 🔐 Reduced security breaches by **50%** with JWT authentication
-
-</td>
-<td width="50%">
-
-### 🌍 TainoSystems Inc. (2024)
-
-**Backend Developer** • Canada (Remote)
-
-- 🌐 Collaborated with global teams across Canada, Europe & Asia
-- ⚡ Cut API response time by **40%** using Goroutines & PostgreSQL indexing
-- 🏗️ Built and maintained financial backend systems
-
-</td>
-</tr>
-</table>
-
----
-
-## � Education & Certifications
-
-- 🎓 **Bachelor of Ocean Engineering** — Bandung Institute of Technology (ITB)
-- 💻 **Backend Engineering Bootcamp** — Alterra Academy (Go, RESTful API, MySQL, Git)
-- 📜 **Certifications**: Jira Fundamentals, Agile in Jira (Atlassian), DevOps Fundamentals (Dicoding)
-
----
-
-## � Featured Project
-
-<a href="https://github.com/nawafilhusnul/sholat-reminder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nawafilhusnul&repo=sholat-reminder&theme=tokyonight&hide_border=true" />
-</a>
-
-**Sholat Reminder** — VS Code Extension built with TypeScript for configurable pre-prayer reminders with dual notifications.
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect!
