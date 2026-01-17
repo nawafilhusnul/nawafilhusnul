@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! 👋 I'm Husnul Nawafil
+# Hey there! 👋 I'm Husnul Nawafil (フスヌル　ナワフィル)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Backend+Engineer;Building+Scalable+Systems;Gopher+%7C+Rustacean+%7C+Pythonista)](https://git.io/typing-svg)
 
