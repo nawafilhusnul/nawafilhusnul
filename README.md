@@ -15,13 +15,39 @@
 
 ## 🚀 About Me
 
-```javascript
-const husnul = {
-  location: "Indonesia 🇮🇩",
-  currentFocus: "Building awesome things",
-  funFact: "I debug with console.log and I'm not ashamed 😄",
-};
+```go
+package main
+
+type Developer struct {
+    Name         string
+    Location     string
+    DailyDriver  string
+    Learning     string
+    Love         string
+}
+
+func main() {
+    me := Developer{
+        Name:         "Husnul Nawafil",
+        Location:     "Indonesia 🇮🇩",
+        DailyDriver:  "Golang 🐹",
+        Learning:     "Rust 🦀",
+        Love:         "Python 🐍",
+    }
+}
 ```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
 
 ---
 
