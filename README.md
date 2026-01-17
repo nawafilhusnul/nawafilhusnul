@@ -30,7 +30,7 @@ type BackendEngineer struct {
     Databases    []string
     Cloud        []string
     Architecture []string
-    Learning     string
+    Learning     []string
 }
 
 func (b *BackendEngineer) CurrentlyBuilding() string {
@@ -43,18 +43,16 @@ func main() {
         Role:         "Backend Engineer",
         Location:     "Jakarta, Indonesia 🇮🇩",
         Experience:   "3+ years",
-        Languages:    []string{"Go", "Node.js", "Python"},
-        Databases:    []string{"PostgreSQL", "MySQL", "Redis", "DynamoDB"},
+        Languages:    []string{"Go", "Rust", "TypeScript", "Python", "Node.js"},
+        Databases:    []string{"PostgreSQL", "MySQL", "Redis", "DynamoDB", "Firestore"},
         Cloud:        []string{"AWS", "GCP", "Docker"},
         Architecture: []string{"Microservices", "Clean Architecture", "REST"},
-        Learning:     "Rust 🦀",
+        Learning:     []string{"Japanese", "Swimming", "Rust"},
     }
 
     fmt.Println(me.CurrentlyBuilding())
 }
 ```
-
-> Backend Engineer with **3+ years** of experience designing and developing scalable systems. Proven success in improving API performance, reducing costs, and increasing system reliability.
 
 ---
 
