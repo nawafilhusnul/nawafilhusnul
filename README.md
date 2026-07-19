@@ -10,16 +10,18 @@
 
 ---
 
+> "People tend to complicate their own lives, as if living weren't already complicated enough."
 
+<p align="right"><sub>— Carlos Ruiz Zafon</sub></p>
 
 ---
 
 ### 📖 19 Jul 2026
 
 <p align="center">
-  <samp>حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا أَيُّوبُ، وَيُونُسُ، عَنِ الْحَسَنِ، عَنِ الأَحْنَفِ بْنِ قَيْسٍ، قَالَ ذَهَبْتُ لأَنْصُرَ هَذَا الرَّجُلَ،...</samp><br>
-  <sub><i>"Narrated Al-Ahnaf bin Qais: While I was going to help this man ('Ali Ibn Abi Talib), Abu Bakra met me and asked, "Where are you going?" I replied, "I am going to help that person." He said, "Go back for I have heard Allah's Messenger (ﷺ) saying, 'When two Muslims fight (meet) each other with their s"</i></sub><br>
-  <sub>— Sahih al-Bukhari #31</sub>
+  <samp>حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم سُئِلَ فِي حَجَّتِهِ فَقَالَ ذَبَحْ...</samp><br>
+  <sub><i>"Narrated Ibn `Abbas:Somebody said to the Prophet (during his last Hajj), "I did the slaughtering before doing the Rami.' The Prophet (ﷺ) beckoned with his hand and said, "There is no harm in that." Then another person said, "I got my head shaved before offering the sacrifice." The Prophet (ﷺ) beckon"</i></sub><br>
+  <sub>— Sahih al-Bukhari #84</sub>
 </p>
 
 ---
