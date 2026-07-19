@@ -6,6 +6,6 @@
 
 ---
 
-> "Faithless is he that says farewell when the road darkens."
+> "The only thing more frustrating than slanderers is those foolish enough to listen to them."
 
-<p align="right"><sub>— J.R.R. Tolkien</sub></p>
+<p align="right"><sub>— Criss Jami</sub></p>
