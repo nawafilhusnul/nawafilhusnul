@@ -10,20 +10,16 @@
 
 ---
 
-> "People tend to complicate their own lives, as if living weren't already complicated enough."
+> "Sometimes you will never know the value of something, until it becomes a memory."
 
-<p align="right"><sub>— Carlos Ruiz Zafon</sub></p>
+<p align="right"><sub>— Dr. Seuss</sub></p>
 
 ---
 
 ### 📖 19 Jul 2026
 
 <p align="center">
-  <samp>حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم سُئِلَ فِي حَجَّتِهِ فَقَالَ ذَبَحْ...</samp><br>
-  <sub><i>"Narrated Ibn `Abbas:Somebody said to the Prophet (during his last Hajj), "I did the slaughtering before doing the Rami.' The Prophet (ﷺ) beckoned with his hand and said, "There is no harm in that." Then another person said, "I got my head shaved before offering the sacrifice." The Prophet (ﷺ) beckon"</i></sub><br>
-  <sub>— Sahih al-Bukhari #84</sub>
+  <samp>حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ ـ رضى الله عنها ـ أَنَّ الْحَارِثَ بْنَ هِشَامٍ ـ رضى ا...</samp><br>
+  <sub><i>"Narrated 'Aisha: (the mother of the faithful believers) Al-Harith bin Hisham asked Allah's Messenger (ﷺ) "O Allah's Messenger (ﷺ)! How is the Divine Inspiration revealed to you?" Allah's Messenger (ﷺ) replied, "Sometimes it is (revealed) like the ringing of a bell, this form of Inspiration is the ha"</i></sub><br>
+  <sub>— Sahih al-Bukhari #2</sub>
 </p>
-
----
-
-<samp>📂 <a href="https://github.com/nawafilhusnul/my-little-notes">vault</a></samp>
