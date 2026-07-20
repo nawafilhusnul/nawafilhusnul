@@ -6,6 +6,6 @@
 
 ---
 
-> "The only thing more frustrating than slanderers is those foolish enough to listen to them."
+> "When you love someone, you love the person as they are, and not as you'd like them to be."
 
-<p align="right"><sub>— Criss Jami</sub></p>
+<p align="right"><sub>— Leo Tolstoy</sub></p>
