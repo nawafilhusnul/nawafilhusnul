@@ -6,6 +6,6 @@
 
 ---
 
-> "It does not matter how slowly you go as long as you do not stop."
+> "The Art of Peace begins with you."
 
-<p align="right"><sub>— Colin R. Davis</sub></p>
+<p align="right"><sub>— Morihei Ueshiba</sub></p>
