@@ -6,6 +6,6 @@
 
 ---
 
-> "The Art of Peace begins with you."
+> "A goal is a dream with a deadline."
 
-<p align="right"><sub>— Morihei Ueshiba</sub></p>
+<p align="right"><sub>— Napoleon Hill</sub></p>
