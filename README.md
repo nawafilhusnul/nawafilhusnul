@@ -6,6 +6,6 @@
 
 ---
 
-> "A goal is a dream with a deadline."
+> "Always be a first-rate version of yourself, instead of a second-rate version of someone else."
 
-<p align="right"><sub>— Napoleon Hill</sub></p>
+<p align="right"><sub>— Judy Garland</sub></p>
