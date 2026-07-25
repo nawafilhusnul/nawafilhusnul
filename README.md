@@ -6,6 +6,6 @@
 
 ---
 
-> "Always be a first-rate version of yourself, instead of a second-rate version of someone else."
+> "I didn't get there by wishing for it or hoping for it, but by working for it."
 
-<p align="right"><sub>— Judy Garland</sub></p>
+<p align="right"><sub>— Estee Lauder</sub></p>
