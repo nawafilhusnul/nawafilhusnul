@@ -1,8 +1,8 @@
 ### 👋 Husnul
 
-<samp>"Move fast and break things. Then fix them faster." — Unknown</samp>
+<samp>"First, solve the problem. Then, write the code." — John Johnson</samp>
 
-<samp>"Move fast and break things. Then fix them faster." — Unknown</samp>
+<samp>"First, solve the problem. Then, write the code." — John Johnson</samp>
 
 ---
 
