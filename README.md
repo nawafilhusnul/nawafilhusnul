@@ -1,7 +1,7 @@
 ### 👋 Husnul
 
 <!-- QUOTE -->
-<samp>"First, solve the problem. Then, write the code." — John Johnson</samp>
+<samp>"Talk is cheap. Show me the code." — Linus Torvalds</samp>
 
 <samp>Building things, breaking things, fixing them faster.</samp>
 
