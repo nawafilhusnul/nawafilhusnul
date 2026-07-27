@@ -1,12 +1,9 @@
 ### 👋 Husnul
 
-<!-- QUOTE -->
-<samp>"Talk is cheap. Show me the code." — Linus Torvalds</samp>
+<samp>Software Engineer • Banda Aceh</samp>
 
 <samp>Building things, breaking things, fixing them faster.</samp>
 
 ---
 
-> "I didn't get there by wishing for it or hoping for it, but by working for it."
-
-<p align="right"><sub>— Estee Lauder</sub></p>
+> "Talk is cheap. Show me the code." — Linus Torvalds
