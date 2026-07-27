@@ -6,4 +6,4 @@
 
 ---
 
-> "The only way to do great work is to love what you do." — Steve Jobs
+> "Simplicity is the soul of efficiency." — Austin Freeman
