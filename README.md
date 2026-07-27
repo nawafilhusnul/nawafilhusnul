@@ -1,8 +1,9 @@
 ### 👋 Husnul
 
+<!-- QUOTE -->
 <samp>"First, solve the problem. Then, write the code." — John Johnson</samp>
 
-<samp>"First, solve the problem. Then, write the code." — John Johnson</samp>
+<samp>Building things, breaking things, fixing them faster.</samp>
 
 ---
 
