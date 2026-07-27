@@ -1,8 +1,8 @@
 ### 👋 Husnul
 
-<samp>Software Engineer • Banda Aceh</samp>
+<samp>"Move fast and break things. Then fix them faster." — Unknown</samp>
 
-<samp>Building things, breaking things, fixing them faster.</samp>
+<samp>"Move fast and break things. Then fix them faster." — Unknown</samp>
 
 ---
 
