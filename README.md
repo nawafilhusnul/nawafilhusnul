@@ -6,4 +6,4 @@
 
 ---
 
-> "The best error message is the one that never shows up." — Thomas Fuchs
+> "The only way to do great work is to love what you do." — Steve Jobs
