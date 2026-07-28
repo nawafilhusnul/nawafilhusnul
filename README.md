@@ -6,4 +6,4 @@
 
 ---
 
-> "Simplicity is the soul of efficiency." — Austin Freeman
+> "Walking on water and developing software are easy if both are frozen." — Unknown
