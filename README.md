@@ -6,4 +6,4 @@
 
 ---
 
-> "Walking on water and developing software are easy if both are frozen." — Unknown
+> "Move fast and break things. Then fix them faster." — Unknown
