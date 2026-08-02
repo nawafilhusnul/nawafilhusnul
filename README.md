@@ -6,4 +6,4 @@
 
 ---
 
-> "Debugging is twice as hard as writing the code." — Brian Kernighan
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
