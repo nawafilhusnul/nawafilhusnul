@@ -6,4 +6,4 @@
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best error message is the one that never shows up." — Thomas Fuchs
