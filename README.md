@@ -6,4 +6,4 @@
 
 ---
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Move fast and break things. Then fix them faster." — Unknown
