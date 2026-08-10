@@ -6,4 +6,4 @@
 
 ---
 
-> "Simplicity is the soul of efficiency." — Austin Freeman
+> "Move fast and break things. Then fix them faster." — Unknown
