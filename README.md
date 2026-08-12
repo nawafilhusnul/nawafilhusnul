@@ -6,4 +6,4 @@
 
 ---
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Make it work, make it right, make it fast." — Kent Beck
