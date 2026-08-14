@@ -6,4 +6,4 @@
 
 ---
 
-> "Walking on water and developing software are easy if both are frozen." — Unknown
+> "Perfection is achieved not when there is nothing more to add." — Saint-Exupéry
