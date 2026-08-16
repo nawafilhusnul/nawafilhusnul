@@ -6,4 +6,4 @@
 
 ---
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Programs must be written for people to read." — Abelson & Sussman
