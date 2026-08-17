@@ -6,4 +6,4 @@
 
 ---
 
-> "Programs must be written for people to read." — Abelson & Sussman
+> "The only way to do great work is to love what you do." — Steve Jobs
