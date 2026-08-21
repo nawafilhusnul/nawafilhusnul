@@ -6,4 +6,4 @@
 
 ---
 
-> "Perfection is achieved not when there is nothing more to add." — Saint-Exupéry
+> "Move fast and break things. Then fix them faster." — Unknown
