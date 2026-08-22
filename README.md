@@ -6,4 +6,4 @@
 
 ---
 
-> "Move fast and break things. Then fix them faster." — Unknown
+> "In software, the best way to predict the future is to build it." — Alan Kay
