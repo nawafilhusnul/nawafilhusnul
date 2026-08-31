@@ -6,4 +6,4 @@
 
 ---
 
-> "Perfection is achieved not when there is nothing more to add." — Saint-Exupéry
+> "Talk is cheap. Show me the code." — Linus Torvalds
