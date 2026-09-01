@@ -6,4 +6,4 @@
 
 ---
 
-> "Talk is cheap. Show me the code." — Linus Torvalds
+> "Any fool can write code that a computer can understand." — Martin Fowler
