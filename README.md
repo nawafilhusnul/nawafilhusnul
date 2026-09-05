@@ -6,4 +6,4 @@
 
 ---
 
-> "Any fool can write code that a computer can understand." — Martin Fowler
+> "Programs must be written for people to read." — Abelson & Sussman
