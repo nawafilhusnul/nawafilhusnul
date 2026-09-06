@@ -6,4 +6,4 @@
 
 ---
 
-> "Programs must be written for people to read." — Abelson & Sussman
+> "Move fast and break things. Then fix them faster." — Unknown
