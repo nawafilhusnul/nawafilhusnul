@@ -6,4 +6,4 @@
 
 ---
 
-> "Walking on water and developing software are easy if both are frozen." — Unknown
+> "In software, the best way to predict the future is to build it." — Alan Kay
