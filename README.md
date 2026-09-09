@@ -6,4 +6,4 @@
 
 ---
 
-> "In software, the best way to predict the future is to build it." — Alan Kay
+> "Talk is cheap. Show me the code." — Linus Torvalds
