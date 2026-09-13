@@ -6,4 +6,4 @@
 
 ---
 
-> "Walking on water and developing software are easy if both are frozen." — Unknown
+> "Programs must be written for people to read." — Abelson & Sussman
