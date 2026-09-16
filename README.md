@@ -6,4 +6,4 @@
 
 ---
 
-> "Perfection is achieved not when there is nothing more to add." — Saint-Exupéry
+> "Any fool can write code that a computer can understand." — Martin Fowler
