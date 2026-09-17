@@ -6,4 +6,4 @@
 
 ---
 
-> "Any fool can write code that a computer can understand." — Martin Fowler
+> "Move fast and break things. Then fix them faster." — Unknown
