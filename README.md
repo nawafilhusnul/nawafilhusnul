@@ -6,4 +6,4 @@
 
 ---
 
-> "Perfection is achieved not when there is nothing more to add." — Saint-Exupéry
+> "The best error message is the one that never shows up." — Thomas Fuchs
