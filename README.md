@@ -6,4 +6,4 @@
 
 ---
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Simplicity is the soul of efficiency." — Austin Freeman
