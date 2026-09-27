@@ -6,4 +6,4 @@
 
 ---
 
-> "Simplicity is the soul of efficiency." — Austin Freeman
+> "Debugging is twice as hard as writing the code." — Brian Kernighan
