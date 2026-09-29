@@ -6,4 +6,4 @@
 
 ---
 
-> "Debugging is twice as hard as writing the code." — Brian Kernighan
+> "The only way to do great work is to love what you do." — Steve Jobs
