@@ -6,4 +6,4 @@
 
 ---
 
-> "Simplicity is the soul of efficiency." — Austin Freeman
+> "Perfection is achieved not when there is nothing more to add." — Saint-Exupéry
