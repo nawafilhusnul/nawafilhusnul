@@ -6,4 +6,4 @@
 
 ---
 
-> "Debugging is twice as hard as writing the code." — Brian Kernighan
+> "Any fool can write code that a computer can understand." — Martin Fowler
