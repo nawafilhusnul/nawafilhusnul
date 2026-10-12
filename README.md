@@ -6,4 +6,4 @@
 
 ---
 
-> "Any fool can write code that a computer can understand." — Martin Fowler
+> "The only way to do great work is to love what you do." — Steve Jobs
