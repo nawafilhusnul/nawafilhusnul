@@ -6,4 +6,4 @@
 
 ---
 
-> "Make it work, make it right, make it fast." — Kent Beck
+> "Walking on water and developing software are easy if both are frozen." — Unknown
