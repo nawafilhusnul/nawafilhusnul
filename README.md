@@ -6,4 +6,4 @@
 
 ---
 
-> "Debugging is twice as hard as writing the code." — Brian Kernighan
+> "Talk is cheap. Show me the code." — Linus Torvalds
