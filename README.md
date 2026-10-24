@@ -6,4 +6,4 @@
 
 ---
 
-> "Programs must be written for people to read." — Abelson & Sussman
+> "Perfection is achieved not when there is nothing more to add." — Saint-Exupéry
