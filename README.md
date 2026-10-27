@@ -6,4 +6,4 @@
 
 ---
 
-> "Any fool can write code that a computer can understand." — Martin Fowler
+> "First, solve the problem. Then, write the code." — John Johnson
