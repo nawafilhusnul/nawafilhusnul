@@ -6,4 +6,4 @@
 
 ---
 
-> "Debugging is twice as hard as writing the code." — Brian Kernighan
+> "Programs must be written for people to read." — Abelson & Sussman
