@@ -6,4 +6,4 @@
 
 ---
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best error message is the one that never shows up." — Thomas Fuchs
