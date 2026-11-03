@@ -6,4 +6,4 @@
 
 ---
 
-> "The only way to do great work is to love what you do." — Steve Jobs
+> "Move fast and break things. Then fix them faster." — Unknown
