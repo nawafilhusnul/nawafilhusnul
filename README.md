@@ -6,4 +6,4 @@
 
 ---
 
-> "Move fast and break things. Then fix them faster." — Unknown
+> "Debugging is twice as hard as writing the code." — Brian Kernighan
