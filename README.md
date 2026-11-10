@@ -6,4 +6,4 @@
 
 ---
 
-> "Debugging is twice as hard as writing the code." — Brian Kernighan
+> "Perfection is achieved not when there is nothing more to add." — Saint-Exupéry
