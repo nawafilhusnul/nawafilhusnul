@@ -6,4 +6,4 @@
 
 ---
 
-> "In software, the best way to predict the future is to build it." — Alan Kay
+> "The only way to do great work is to love what you do." — Steve Jobs
