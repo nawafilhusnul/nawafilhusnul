@@ -6,4 +6,4 @@
 
 ---
 
-> "Programs must be written for people to read." — Abelson & Sussman
+> "Make it work, make it right, make it fast." — Kent Beck
