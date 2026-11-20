@@ -6,4 +6,4 @@
 
 ---
 
-> "Simplicity is the soul of efficiency." — Austin Freeman
+> "Programs must be written for people to read." — Abelson & Sussman
