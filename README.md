@@ -6,4 +6,4 @@
 
 ---
 
-> "Programs must be written for people to read." — Abelson & Sussman
+> "In software, the best way to predict the future is to build it." — Alan Kay
