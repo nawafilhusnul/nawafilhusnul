@@ -6,4 +6,4 @@
 
 ---
 
-> "Talk is cheap. Show me the code." — Linus Torvalds
+> "Simplicity is the soul of efficiency." — Austin Freeman
