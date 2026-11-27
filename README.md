@@ -6,4 +6,4 @@
 
 ---
 
-> "Simplicity is the soul of efficiency." — Austin Freeman
+> "Any fool can write code that a computer can understand." — Martin Fowler
